@@ -1,5 +1,6 @@
 # data-deduplication-system
-a prototype for data deduplication system
+a prototype for data deduplication system.
+
 To test this project, several directories are needed as indicated in the main.cpp. you can make them manually:
   
   string origin_file_dir="../data/originalfiles/";
